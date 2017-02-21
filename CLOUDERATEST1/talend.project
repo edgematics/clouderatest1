@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_f0rQEfhqEea_XKBuw2QyVA" label="clouderatest1" description="Cloudera Testing Project" language="java" technicalLabel="CLOUDERATEST1" creationDate="2017-02-21T11:17:01.073-0800" author="_f0rQEvhqEea_XKBuw2QyVA" productVersion="Talend Big Data Platform-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/edgematics/clouderatest1&quot;,&quot;login&quot;:&quot;edgematics&quot;,&quot;passwd&quot;:&quot;c0h6qEIZAQv0s5VB0EhakQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_f0rQEfhqEea_XKBuw2QyVA" label="clouderatest1" description="Cloudera Testing Project" language="java" technicalLabel="CLOUDERATEST1" creationDate="2017-02-21T11:17:01.073-0800" author="_f0rQEvhqEea_XKBuw2QyVA" productVersion="Talend Big Data Platform-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/edgematics/clouderatest1&quot;,&quot;login&quot;:&quot;edgematics&quot;,&quot;passwd&quot;:&quot;c0h6qEIZAQv0s5VB0EhakQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+    <technicalStatus xmi:id="_iNJjUPhqEea_XKBuw2QyVA" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_iNJjUfhqEea_XKBuw2QyVA" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_iNJjUvhqEea_XKBuw2QyVA" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_iNBngPhqEea_XKBuw2QyVA" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_iNCOkPhqEea_XKBuw2QyVA" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_iNCOkfhqEea_XKBuw2QyVA" label="validated" code="VAL"/>
     <migrationTask xmi:id="_iL8pcPhqEea_XKBuw2QyVA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_iL9QgPhqEea_XKBuw2QyVA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_iL9QgfhqEea_XKBuw2QyVA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
