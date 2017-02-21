@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_V3ZSIPhrEea_XKBuw2QyVA" DatabaseType="Hive" URL="jdbc:hive2://cloudera70mnode.steamairlines.com:10000/default" Port="10000" Username="cloudera" ServerName="cloudera70mnode.steamairlines.com" SID="default" DbmsId="hive_id" ProductId="HIVE">
+  <parameters xmi:id="_V3ZSIfhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_USE_YARN" value="true"/>
+  <parameters xmi:id="_V3ZSIvhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_RESOURCEMANAGER_SCHEDULER_ADDRESS" value="cloudera70mnode.steamairlines.com:8030"/>
+  <parameters xmi:id="_V3ZSI_hrEea_XKBuw2QyVA" key="CONN_PARA_KEY_USE_CUSTOM_CONFS" value="true"/>
+  <parameters xmi:id="_V3ZSJPhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_NAME_NODE_URL" value="hdfs://cloudera70mnode.steamairlines.com:8020"/>
+  <parameters xmi:id="_V3ZSJfhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_USERNAME" value="cloudera"/>
+  <parameters xmi:id="_V3ZSJvhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_HADOOP_CLUSTER_ID" value="_9NKNAPhqEea_XKBuw2QyVA"/>
+  <parameters xmi:id="_V3ZSJ_hrEea_XKBuw2QyVA" key="CONN_PARA_KEY_JOB_HISTORY_PRINCIPAL" value="mapred/_HOST@EXAMPLE.COM"/>
+  <parameters xmi:id="_V3ZSKPhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_HBASE_VERSION" value="Cloudera_CDH5_8"/>
+  <parameters xmi:id="_V3ZSKfhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_JOB_TRACKER_URL" value="cloudera70mnode.steamairlines.com:8032"/>
+  <parameters xmi:id="_V3ZSKvhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_JOBHISTORY_ADDRESS" value="cloudera70mnode.steamairlines.com:10020"/>
+  <parameters xmi:id="_V3ZSK_hrEea_XKBuw2QyVA" key="CONN_PARA_KEY_HIVE_VERSION" value="Cloudera_CDH5_8"/>
+  <parameters xmi:id="_V3ZSLPhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_USE_DATANODE_HOSTNAME" value="true"/>
+  <parameters xmi:id="_V3ZSLfhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_DB_SERVER" value="cloudera70mnode.steamairlines.com"/>
+  <parameters xmi:id="_V3ZSLvhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_DB_TYPE" value="Hive"/>
+  <parameters xmi:id="_V3ZSL_hrEea_XKBuw2QyVA" key="CONN_PARA_KEY_MAPRDB_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_V3ZSMPhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_JOB_TRACKER_PRINCIPAL" value="yarn/_HOST@EXAMPLE.COM"/>
+  <parameters xmi:id="_V3ZSMfhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_HIVE_DISTRIBUTION" value="CLOUDERA"/>
+  <parameters xmi:id="_V3ZSMvhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_MAPRDB_VERSION" value="Cloudera_CDH5_8"/>
+  <parameters xmi:id="_V3ZSM_hrEea_XKBuw2QyVA" key="CONN_PARA_KEY_MAPRDB_DISTRIBUTION" value="CLOUDERA"/>
+  <parameters xmi:id="_V3ZSNPhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_USE_KRB" value="false"/>
+  <parameters xmi:id="_V3ZSNfhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_HBASE_DISTRIBUTION" value="CLOUDERA"/>
+  <parameters xmi:id="_V3ZSNvhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_STAGING_DIRECTORY" value="/user"/>
+  <parameters xmi:id="_V3ZSN_hrEea_XKBuw2QyVA" key="CONN_PARA_KEY_NAME_NODE_PRINCIPAL" value="hdfs/_HOST@EXAMPLE.COM"/>
+  <parameters xmi:id="_V3ZSOPhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_DB_PRODUCT" value="HIVE"/>
+  <parameters xmi:id="_V3ZSOfhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_HIVE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_V3ZSOvhrEea_XKBuw2QyVA" key="HIVE_AUTHENTICATION_METASTOREURL" value="thrift://cloudera70mnode.steamairlines.com:9083"/>
+  <parameters xmi:id="_V3ZSO_hrEea_XKBuw2QyVA" key="CONN_PARA_KEY_HBASE_AUTHENTICATION_USE_MAPRTICKET" value="false"/>
+  <parameters xmi:id="_V3ZSPPhrEea_XKBuw2QyVA" key="HIVE_SERVER_VERSION" value="HIVE2"/>
+  <parameters xmi:id="_V3ZSPfhrEea_XKBuw2QyVA" key="CONN_PARA_KEY_HIVE_MODE" value="STANDALONE"/>
+</TalendMetadata:DatabaseConnection>
