@@ -46,6 +46,19 @@
       <relatedItems xmi:id="_WtJKmvi8EeaIgYFRGXOWog" id="Mathematical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_D1MFwPi_EeaIgYFRGXOWog" id="utility" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_m-J_gPj_EeafbMCGvyD6zg">
+      <baseItem xmi:id="_m-J_gfj_EeafbMCGvyD6zg" id="_gzVcAPj_EeafbMCGvyD6zg" version="0.1" type="job"/>
+      <relatedItems xmi:id="_m-J_gvj_EeafbMCGvyD6zg" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_m-J_g_j_EeafbMCGvyD6zg" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_m-J_hPj_EeafbMCGvyD6zg" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_m-J_hfj_EeafbMCGvyD6zg" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_m-J_hvj_EeafbMCGvyD6zg" id="utility" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_m-J_h_j_EeafbMCGvyD6zg" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_m-J_iPj_EeafbMCGvyD6zg" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_m-J_ifj_EeafbMCGvyD6zg" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_m-J_ivj_EeafbMCGvyD6zg" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_m-J_i_j_EeafbMCGvyD6zg" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_iL8pcPhqEea_XKBuw2QyVA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_iL9QgPhqEea_XKBuw2QyVA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_iL9QgfhqEea_XKBuw2QyVA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
@@ -372,7 +385,5 @@
     <migrationTask xmi:id="_i4dxvPhqEea_XKBuw2QyVA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_f0rQEvhqEea_XKBuw2QyVA" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
-  <TalendProperties:User xmi:id="_FG6YQPj_EeafbMCGvyD6zg" login="faisal@company.com" firstName="Faisal" lastName="Zafar" type="DQ" additionnalData="{}">
-    <projectAuthorization href="../C:/Program%20Files%20(x86)/Talend-Studio/studio/#/4"/>
-  </TalendProperties:User>
+  <TalendProperties:User xmi:id="_FG6YQPj_EeafbMCGvyD6zg" login="faisal@company.com" firstName="Faisal" lastName="Zafar" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
