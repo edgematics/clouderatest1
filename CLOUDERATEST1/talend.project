@@ -372,4 +372,7 @@
     <migrationTask xmi:id="_i4dxvPhqEea_XKBuw2QyVA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_f0rQEvhqEea_XKBuw2QyVA" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_FG6YQPj_EeafbMCGvyD6zg" login="faisal@company.com" firstName="Faisal" lastName="Zafar" type="DQ" additionnalData="{}">
+    <projectAuthorization href="../C:/Program%20Files%20(x86)/Talend-Studio/studio/#/4"/>
+  </TalendProperties:User>
 </xmi:XMI>
